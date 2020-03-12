@@ -1,7 +1,7 @@
 [build]
   base = "exampleSite"
   command = "hugo --gc --themesDir ../.. -b $URL"
-  publish = "exampleSite/public"
+  publish = "exampleSite"
 
 [build.environment]
   HUGO_THEME = "repo"
