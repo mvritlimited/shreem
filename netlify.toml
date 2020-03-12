@@ -1,5 +1,5 @@
 [build]
-  base = "exampleSite"
+  base = "/"
   command = "hugo --gc --themesDir ../.. -b $URL"
   publish = "exampleSite"
 
