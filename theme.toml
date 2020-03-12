@@ -1,17 +1,17 @@
-name = "hello-friend-ng"
+name = "Universal"
 license = "MIT"
-licenselink = "https://github.com/rhazdon/hugo-theme-hello-friend-ng/blob/master/LICENSE.md"
-description = "A simple theme for Hugo. That's it."
-tags = ["blog", "clean", "customizable", "dark", "highlighting", "light", "minimal", "monochromatic", "multilingual", "personal", "responsive", "simple", "technical"]
-features = ["blog", "shortcode", "syntax highlighting"]
-min_version = 0.30
+licenselink = "https://github.com/devcows/hugo-universal-theme/blob/master/LICENSE"
+description = "A port of the Universal theme"
+homepage = "//github.com/devcows/hugo-universal-theme"
+tags = ["blog", "company", "portfolio", "projects", "minimal", "responsive"]
+features = ["blog", "themes", "disqus", "minimal", "responsive"]
+min_version = 0.15
 
 [author]
-  name = "Djordje Atlialp"
-  homepage = "https://atlialp.com"
-  twitter = "https://twitter.com/rhazdon"
+    name = "adrianmo"
+    homepage = "//github.com/adrianmo"
 
+# If Porting existing theme
 [original]
-  name = "hello-friend"
-  homepage = "https://github.com/panr/hugo-theme-hello-friend"
-  repo = "https://github.com/panr/hugo-theme-hello-friend"
+    author =  "bootstrapious"
+    homepage = "http://bootstrapious.com/p/universal-business-e-commerce-template"

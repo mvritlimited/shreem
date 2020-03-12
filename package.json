@@ -1,19 +1,13 @@
 {
-  "name": "hello-friend-ng",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "Djordje Atlialp <djordje@atlialp.com>",
-  "license": "MIT",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "browserslist": [
-    "last 2 versions",
-    ">1%",
-    "not dead"
-  ],
+  "name": "hugo-universal-theme",
   "devDependencies": {
-    "bulma": "^0.8.0",
-    "node-sass": "^4.13.0"
+    "eslint": "latest",
+    "eslint-config-standard": "^6.2.0",
+    "eslint-plugin-promise": "^3.0.0",
+    "eslint-plugin-standard": "^2.0.1"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "install_hugo": "brew update && brew install hugo"
   }
 }
