@@ -1,35 +1,36 @@
-# Translations for Italian
+# Translations for English
 # https://gohugo.io/content-management/multilingual/#translation-of-strings
+
+# Generic
+#
+[translations]
+other = "Traduzioni"
+
+[postAvailable]
+other = "Disponibile anche in"
+
 
 # 404.html
 #
-[notFound]
-other = "Oops, pagina non trovata…"
+[archives]
+other = "Archivi"
 
 [home]
 other = "Home"
 
-[archives]
-other = "Archivi"
+[notFound]
+other = "Oops, pagina non trovata…"
+
 
 # posts/single.html
 #
-[wordCount]
-other = "{{ .WordCount }} Parole"
+[readingTime]
+one   = "Un minuto"
+other = "{{ .Count }} minuti"
 
 [tableOfContents]
-other = "Sommario"
+other = "Contenuti"
 
-[newer]
-other = "Prossimo"
-
-[older]
-other = "Precedente"
-
-# partials/header.html
-#
-[menu]
-other = "Menu"
-
-[featuredImage]
-other = "Immagine in primo piano"
+[wordCount]
+one   = "Una parola"
+other = "{{ .Count }} parole"

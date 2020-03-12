@@ -1,18 +1,17 @@
-name = "Shreem Infotech"
+name = "hello-friend-ng"
 license = "MIT"
-licenselink = "https://github.com/Track3/hermit/blob/master/LICENSE"
-description = "A minimal and fast hugo theme for bloggers."
-homepage = "https://github.com/Track3/hermit"
-tags = ["blog", "minimal", "dark", "responsive"]
-features = [
-  "single column",
-  "featured image",
-  "social icons",
-  "google analytics",
-  "disqus"
-]
-min_version = 0.43
+licenselink = "https://github.com/rhazdon/hugo-theme-hello-friend-ng/blob/master/LICENSE.md"
+description = "A simple theme for Hugo. That's it."
+tags = ["blog", "clean", "customizable", "dark", "highlighting", "light", "minimal", "monochromatic", "multilingual", "personal", "responsive", "simple", "technical"]
+features = ["blog", "shortcode", "syntax highlighting"]
+min_version = 0.30
 
 [author]
-  name = "Track3"
-  homepage = "https://www.xxxlbox.com"
+  name = "Djordje Atlialp"
+  homepage = "https://atlialp.com"
+  twitter = "https://twitter.com/rhazdon"
+
+[original]
+  name = "hello-friend"
+  homepage = "https://github.com/panr/hugo-theme-hello-friend"
+  repo = "https://github.com/panr/hugo-theme-hello-friend"
