@@ -1,5 +1,5 @@
 baseURL = "/"
-title   = "Venkatesh Ramasamy"
+title   = "Shreem Infotech"
 
 DefaultContentLanguage = "en"
 
@@ -38,7 +38,7 @@ disableHugoGeneratorInject = false
   posts = "/posts/:year/:month/:title/"
 
 [author]
-  name = "Venkatesh Ramasamy"
+  name = "Shreem Infotech"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -58,7 +58,7 @@ disableHugoGeneratorInject = false
   keywords = "Computers, Big Data, Distributed Computing, Micro Services"
   images = [""]
 
-  homeSubtitle = "Venkatesh Ramasamy"
+  homeSubtitle = "Shreem Infotech"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
@@ -100,12 +100,12 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-    subtitle  = "Venkatesh Ramasamy"
+    subtitle  = "Shreem Infotech"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.fr]
-    subtitle  = "Venkatesh Ramasamy"
+    subtitle  = "Shreem Infotech"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
