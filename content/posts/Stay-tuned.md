@@ -5,13 +5,13 @@ type = ["posts","post"]
 tags = [
     "IT Security",
     "Information Security",
-    "SoC",
+    "SOC",
     "development",
 ]
 date = "2019-04-02"
 categories = [
     "Development",
-    "IT Security"",
+    "golang",
 ]
 series = ["Hugo 101"]
 [ author ]
