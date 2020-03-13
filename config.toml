@@ -82,22 +82,15 @@ disableHugoGeneratorInject = false
     logoHomeLink = "/"
 
   # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/bigcherish"
+
 
   [[params.social]]
     name = "email"
     url  = "mailto:kapardi@Shreeminfotech.co.uk"
 
-  [[params.social]]
-    name = "github"
-    url  = "https://github.com/hadooping"
+ 
 
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://www.linkedin.com/in/venkateshramasamy"
-
+  
 [languages]
   [languages.en]
     subtitle  = "Shreem Infotech"
