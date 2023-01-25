@@ -6,6 +6,4 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Hugo Authors"
 +++
 
-Shreem Infotech is the **one of the youngest IT Consultancy company based in UK**.
-
-To learn more and how we can contribute please reach us kapardi@shreeminfotech.co.uk
+Site under construction. To learn more and how we can contribute please reach us kapardi@shreeminfotech.co.uk
